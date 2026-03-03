@@ -49,9 +49,9 @@ Here are the details of my current workstation:
 
 ### 🚀 Technical Skills
 <p align="left">
-  <img src="https://img.shields.io" alt="Bash" />
-  <img src="https://img.shields.io" alt="Git" />
-  <img src="https://img.shields.io" alt="Docker" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
