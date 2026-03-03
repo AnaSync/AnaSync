@@ -1,5 +1,4 @@
 # About me
--  POP!_OS, Kernel , Terminal 
 ## Hi there! 👋 I'm AnachronousSync
 - 🌱 I’m currently learning coding..
 ### 🐧 My Linux Environment
