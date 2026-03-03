@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm [Dein Name]
 
 ### 💻 My Linux Environment
-I prefer working in a Linux-based environment for its flexibility and power. Here are the details of my current workstation:
+I prefer working in a Linux-based environment for its flexibility and power.
+Here are the details of my current workstation:
 
 <p align="left">
   <img src="https://img.shields.io" alt="OS" />
