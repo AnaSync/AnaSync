@@ -15,7 +15,7 @@ Here are the details of my current workstation:
   </tr>
   <tr>
     <td><b>Shell</b></td>
-    <td><img src="https://img.shields.io/badge/Shell-Zsh%20%2F%20P10k-orange?style=for-the-badge&logo=gnubash&logoColor=white height="28" alt="Shell" /></td>
+    <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-orange?style=for-the-badge&logo=gnubash&logoColor=white height="28" alt="Shell" /></td>
   </tr>
   <tr>
     <td><b>IDE</b></td>
@@ -25,10 +25,11 @@ Here are the details of my current workstation:
 
 | Category | Specifications |
 | :--- | :--- |
-| **Distribution** | [z.B. Arch Linux / Fedora] /badge/Pop!_OS_24.04_LTS-48B9C7?logo=popos&logoColor=white |
-| **Desktop Environment** | [z.B. GNOME / KDE Plasma / Sway] /badge/COSMIC-black?logo=system76&logoColor=white |
-| **Terminal Emulator** | [z.B. Alacritty / Kitty] /badge/Zsh_/_P10k-orange?logo=gnubash&logoColor=white |
-| **Editor / IDE** | [z.B. Neovim / VS Code] /badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white |
+| **Distribution** | ![Pop!_OS 24.04 LTS](https://img.shields.io/badge/Pop!_OS_24.04_LTS-48B9C7?logo=popos&logoColor=white) |
+| **Kernel** | ![Kernel](https://img.shields.io) |
+| **Desktop** | ![COSMIC](https://img.shields.io/badge/COSMIC-black?logo=system76&logoColor=white) |
+| **Terminal** | ![Zsh/P10k](https://img.shields.io/badge/Zsh_/_P10k-orange?logo=gnubash&logoColor=white) |
+| **IDE** | [z.B. Neovim / VS Code] /badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white |
 
 ---
 
