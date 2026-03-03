@@ -5,11 +5,28 @@ I prefer working in a Linux-based environment for its flexibility and power.
 Here are the details of my current workstation:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/OS-Pop!__OS_24.04_LTS-48B9C7?logo=popos" alt="OS" />
-  <img src="https://img.shields.io/badge/Kernel-6.18.7--76061807-blue?logo=linux" alt="Kernel" />
-  <img src="https://img.shields.io/badge/Shell-Zsh%20%2F%20P10k-orange?logo=gnubash" alt="Shell" />
+  
+  
+  
 </p>
-
+<table>
+  <tr>
+    <td><b>OS</b></td>
+    <td><img src="https://img.shields.io/badge/OS-Pop!__OS_24.04_LTS-48B9C7?logo=popos" alt="OS" /></td>
+  </tr>
+  <tr>
+    <td><b>Kernel</b></td>
+    <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807-blue?logo=linux" alt="Kernel" /></td>
+  </tr>
+  <tr>
+    <td><b>Shell</b></td>
+    <td><img src="https://img.shields.io/badge/Shell-Zsh%20%2F%20P10k-orange?logo=gnubash" alt="Shell" /></td>
+  </tr>
+  <tr>
+    <td><b>IDE</b></td>
+    <td><img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28" alt="VS Code" /></td>
+  </tr>
+</table>
 
 | Category | Specifications |
 | :--- | :--- |
@@ -25,7 +42,7 @@ Here are the details of my current workstation:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app" alt="Top Langs" />
 </p>
-
+![GitHub Stats](https://github-readme-stats.vercel.app)
 ---
 
 ### 🚀 Technical Skills
