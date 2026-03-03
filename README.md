@@ -7,19 +7,19 @@ Here are the details of my current workstation:
 <table>
   <tr>
     <td><b>OS</b></td>
-    <td><img src="https://img.shields.io/badge/OS-Pop!_OS_24.04_LTS-48B9C7?style=for-the-badge&logo=popos&logoColor=white height="28" alt="OS" /></td>
+    <td><img src="https://img.shields.io/badge/OS-Pop!_OS_24.04_LTS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" height="28" alt="OS" /></td>
   </tr>
   <tr>
     <td><b>Kernel</b></td>
-    <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807.generic-blue?style=for-the-badge&logo=linux&logoColor=white height="28" alt="Kernel" /></td>
+    <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807.generic-blue?style=for-the-badge&logo=linux&logoColor=white" height="28" alt="Kernel" /></td>
   </tr>
   <tr>
     <td><b>Shell</b></td>
-    <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-orange?style=for-the-badge&logo=gnubash&logoColor=white height="28" alt="Shell" /></td>
+    <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-orange?style=for-the-badge&logo=gnubash&logoColor=white" height="28" alt="Shell" /></td>
   </tr>
   <tr>
     <td><b>IDE</b></td>
-    <td><img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white height="28" alt="VS Code" /></td>
+    <td><img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28" alt="VS Code" /></td>
   </tr>
 </table>
 
@@ -49,9 +49,9 @@ Here are the details of my current workstation:
 
 ### 🚀 Technical Skills
 <p align="left">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="28" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker" />
 </p>
 
 ---
