@@ -8,7 +8,7 @@ I leverage the power of Linux for a streamlined development workflow.
 
 | Category | Specifications |
 | :--- | :--- |
-| **OS** | ![Pop!__OS](https://img.shields.io/banner?logo=popos) |
+| **OS** | ![Pop!__OS](https://img.shields.io/badge?logo=popos) |
 | **Kernel** | ![Kernel](https://img.shields.io) |
 | **Desktop** | ![COSMIC](https://img.shields.io) |
 | **Terminal** | ![Zsh](https://img.shields.io) |
