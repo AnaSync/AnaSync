@@ -5,7 +5,7 @@ I prefer working in a Linux-based environment for its flexibility and power.
 Here are the details of my current workstation:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/OS-Pop!_OS_24.04_LTS-48B9C7?logo=popos" alt="OS" />
+  <img src="https://img.shields.io/badge/OS-Pop!__OS_24.04_LTS-48B9C7?logo=popos" alt="OS" />
   <img src="https://img.shields.io/badge/Kernel-6.18.7--76061807-blue?logo=linux" alt="Kernel" />
   <img src="https://img.shields.io/badge/Shell-Zsh%20%2F%20P10k-orange?logo=gnubash" alt="Shell" />
 </p>
