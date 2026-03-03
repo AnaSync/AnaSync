@@ -2,7 +2,7 @@
 ## Hi there! 👋 I'm AnachronousSync
 - 🌱 I’m currently learning coding.
 
-### 🐧 My Workstation
+### 💻 My Workstation
 I leverage the power of Linux for a streamlined development workflow.
 
 
@@ -16,6 +16,14 @@ I leverage the power of Linux for a streamlined development workflow.
 
 ---
 
+### 📊 GitHub Stats
+<!-- Ersetze DEIN_NUTZERNAME durch deinen tatsächlichen GitHub-Namen -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app" alt="Top Langs" />
+</p>
+
+---
+
 ### 🚀 Technical Skills
 <p align="left">
   <img src="https://img.shields.io" alt="Bash" />
@@ -25,8 +33,6 @@ I leverage the power of Linux for a streamlined development workflow.
 
 ---
 *System details fetched via `hostnamectl` and `uname -r`.*
-
-
 
 <!--
 **AnaSync/AnaSync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
