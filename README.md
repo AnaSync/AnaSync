@@ -1,18 +1,21 @@
-# About me
-## Hi there! 👋 I'm AnachronousSync
-- 🌱 I’m currently learning coding.
+# Hi there! 👋 I'm [Dein Name]
 
-### 💻 My Workstation
-I leverage the power of Linux for a streamlined development workflow.
+### 💻 My Linux Environment
+I prefer working in a Linux-based environment for its flexibility and power. Here are the details of my current workstation:
+
+<p align="left">
+  <img src="https://img.shields.io" alt="OS" />
+  <img src="https://img.shields.io" alt="Kernel" />
+  <img src="https://img.shields.io" alt="Shell" />
+</p>
 
 
 | Category | Specifications |
 | :--- | :--- |
-| **OS** | ![Pop!__OS](https://img.shields.io/badge?logo=popos) |
-| **Kernel** | ![Kernel](https://img.shields.io) |
-| **Desktop** | ![COSMIC](https://img.shields.io) |
-| **Terminal** | ![Zsh](https://img.shields.io) |
-| **Editor** | ![VS_Code](https://img.shields.io) |
+| **Distribution** | [z.B. Arch Linux / Fedora] |
+| **Desktop Environment** | [z.B. GNOME / KDE Plasma / Sway] |
+| **Terminal Emulator** | [z.B. Alacritty / Kitty] |
+| **Editor / IDE** | [z.B. Neovim / VS Code] |
 
 ---
 
@@ -25,6 +28,12 @@ I leverage the power of Linux for a streamlined development workflow.
 ---
 
 ### 🚀 Technical Skills
+<!-- Hier kannst du weitere Badges von Shields.io oder SimpleIcons einfügen -->
+![Bash](https://img.shields.io)
+![Git](https://img.shields.io)
+![Docker](https://img.shields.io)
+
+### 🚀 Technical Skills
 <p align="left">
   <img src="https://img.shields.io" alt="Bash" />
   <img src="https://img.shields.io" alt="Git" />
@@ -32,7 +41,7 @@ I leverage the power of Linux for a streamlined development workflow.
 </p>
 
 ---
-*System details fetched via `hostnamectl` and `uname -r`.*
+*System details fetched using `hostnamectl` and `uname -r`.*
 
 <!--
 **AnaSync/AnaSync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
