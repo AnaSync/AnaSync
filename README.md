@@ -12,15 +12,15 @@ Here are the details of my current workstation:
 <table>
   <tr>
     <td><b>OS</b></td>
-    <td><img src="https://img.shields.io/badge/OS-Pop!__OS_24.04_LTS-48B9C7?logo=popos" alt="OS" /></td>
+    <td><img src="https://img.shields.io/badge/OS-Pop!__OS_24.04_LTS-48B9C7?style=for-the-badge?logo=popos&logoColor=white" alt="OS" /></td>
   </tr>
   <tr>
     <td><b>Kernel</b></td>
-    <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807-blue?logo=linux" alt="Kernel" /></td>
+    <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807-blue?style=for-the-badge?logo=linux&logoColor=white" alt="Kernel" /></td>
   </tr>
   <tr>
     <td><b>Shell</b></td>
-    <td><img src="https://img.shields.io/badge/Shell-Zsh%20%2F%20P10k-orange?logo=gnubash" alt="Shell" /></td>
+    <td><img src="https://img.shields.io/badge/Shell-Zsh%20%2F%20P10k-orange?style=for-the-badge?logo=gnubash&logoColor=white" alt="Shell" /></td>
   </tr>
   <tr>
     <td><b>IDE</b></td>
