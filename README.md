@@ -24,8 +24,8 @@ Here are the details of my current server and workstation:
         <td></td>
         <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-E36427?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="Shell: Zsh/P10k" /></td>    </tr>
     <tr>
-        <td><img src="https://img.shields.io/badge/Desktop-COSMIC-228B22?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Desktop: COSMIC" /></td>
         <td></td>
+        <td><img src="https://img.shields.io/badge/Desktop-COSMIC-228B22?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Desktop: COSMIC" /></td>
     </tr>
     <tr>
         <td></td>
