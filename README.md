@@ -19,6 +19,7 @@ Here are the details of my current workstation:
 <p align="left">
   <td><img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: VS Code" /></td>
 </p>
+
 <!--
 | Category | Specifications |
 | :--- | :--- |
