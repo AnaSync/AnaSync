@@ -1,5 +1,5 @@
-# Hi there! 👋 I'm AnachronousSync
-- 🌱 I’m currently learning ...
+# Hi there! 👋 I'm AnachronousSync,
+🌱 and I’m currently learning coding...
 ### 💻 My Linux Environment
 I prefer working in a Linux-based environment for its flexibility and power.
 Here are the details of my current workstation:
