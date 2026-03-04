@@ -19,7 +19,7 @@ Here are the details of my current workstation:
 <p align="left">
   <td><img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: VS Code" /></td>
 </p>
-
+<!--
 | Category | Specifications |
 | :--- | :--- |
 | **Distribution** | ![Pop!_OS 24.04 LTS](https://img.shields.io/badge/Pop!__OS_24.04_LTS-48B9C7?logo=popos&logoColor=white) |
@@ -27,11 +27,11 @@ Here are the details of my current workstation:
 | **Shell** | ![Zsh/P10k](https://img.shields.io/badge/Zsh_/_P10k-E36427?logo=gnubash&logoColor=white) |
 | **Desktop** | ![COSMIC](https://img.shields.io/badge/COSMIC-228B22?logo=system76&logoColor=white) |
 | **IDE** | ![Zsh/P10k](https://img.shields.io/badge/VS_Code-007ACC?logo=devbox&logoColor=white) |
+-->
 
 ---
 
 ### 📊 GitHub Stats
-<!-- Ersetze DEIN_NUTZERNAME durch deinen tatsächlichen GitHub-Namen -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app?username=AnachronousSync&show_icons=true&bg_color=202225&title_color=48B9C7&icon_color=48B9C7&text_color=FFFFFF&border_color=48B9C7" layout=compact height="165" hide_border=false alt="Top Languages" />
 </p>
