@@ -1,5 +1,5 @@
-# Hi there! 👋 I am AnachronousSync
-## 🌱 I’m currently developing my coding skills..
+# Hi there, I'm AnachronousSync!
+## and I'm currently developing my coding skills..
 ### 💻 My Linux Environment
 I prefer working in a Linux-based environment for its flexibility and power.
 Here are the details of my current workstation:
