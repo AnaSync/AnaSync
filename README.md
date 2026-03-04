@@ -4,24 +4,15 @@
 I prefer working in a Linux-based environment for its flexibility and power.
 Here are the details of my current workstation:
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Distribution-Pop!__OS_24.04_LTS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" height="25" alt="OS: POP!_OS 24.04 LTS" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807--generic-FCC624?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel: 6.16.7-76061807-generic" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-E36427?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="Shell: Zsh/P10k" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Desktop-COSMIC-228B22?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Desktop: COSMIC" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: VS Code" /></td>
-  </tr>
-</table>
+<p align="left">
+  <td><img src="https://img.shields.io/badge/Distribution-Pop!__OS_24.04_LTS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" height="25" alt="OS: POP!_OS 24.04 LTS" /></td>
+  <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807--generic-FCC624?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel: 6.16.7-76061807-generic" /></td>
+  <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-E36427?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="Shell: Zsh/P10k" /></td>
+  <td><img src="https://img.shields.io/badge/Desktop-COSMIC-228B22?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Desktop: COSMIC" /></td>
+  <td><img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: VS Code" /></td>
+</p>
 
+<!--
 | Category | Specifications |
 | :--- | :--- |
 | **Distribution** | ![Pop!_OS 24.04 LTS](https://img.shields.io/badge/Pop!__OS_24.04_LTS-48B9C7?logo=popos&logoColor=white) |
@@ -29,7 +20,7 @@ Here are the details of my current workstation:
 | **Shell** | ![Zsh/P10k](https://img.shields.io/badge/Zsh_/_P10k-E36427?logo=gnubash&logoColor=white) |
 | **Desktop** | ![COSMIC](https://img.shields.io/badge/COSMIC-228B22?logo=system76&logoColor=white) |
 | **IDE** | ![Zsh/P10k](https://img.shields.io/badge/VS_Code-007ACC?logo=devbox&logoColor=white) |
-
+-->
 ---
 
 ### 📊 GitHub Stats
