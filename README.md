@@ -11,11 +11,11 @@ Here are the details of my current workstation:
   </tr>
   <tr>
     <td><b>Kernel</b></td>
-    <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807--generic-FCC624?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel" /></td>
+    <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807--generic-E36427?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel" /></td>
   </tr>
   <tr>
     <td><b>Shell</b></td>
-    <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-E36427?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="Shell" /></td>
+    <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-FCC624?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="Shell" /></td>
   </tr>
   <tr>
     <td><b>IDE</b></td>
