@@ -19,7 +19,7 @@ Here are the details of my current workstation:
   </tr>
   <tr>
     <td><b>IDE</b></td>
-    <td><img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25" alt="VS Code" /></td>
+    <td><img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=codeproject&logoColor=white" height="25" alt="VS Code" /></td>
   </tr>
 </table>
 
@@ -29,7 +29,7 @@ Here are the details of my current workstation:
 | **Kernel** | ![6.18.7-76061807](https://img.shields.io/badge/6.18.7--76061807.generic-blue?logo=linux&logoColor=white) |
 | **Desktop** | ![COSMIC](https://img.shields.io/badge/COSMIC-black?logo=system76&logoColor=white) |
 | **Terminal** | ![Zsh/P10k](https://img.shields.io/badge/Zsh_/_P10k-orange?logo=gnubash&logoColor=white) |
-| **IDE** | ![Zsh/P10k](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) |
+| **IDE** | ![Zsh/P10k](https://img.shields.io/badge/VS_Code-007ACC?logo=codeproject&logoColor=white) |
 
 ---
 
