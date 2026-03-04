@@ -1,4 +1,8 @@
 <!--
+Test1
+-->
+
+<!--
 Test2
 -->
 
@@ -39,6 +43,8 @@ Here are the details of my current workstation:
 
 ## <!--
 
+## <!--
+
 ### 📊 GitHub Stats
 
 <p align="left">
@@ -66,6 +72,7 @@ Here are the details of my current workstation:
 
 ---
 
+_System details fetched using `hostnamectl` and `uname -r`._
 _System details fetched using `hostnamectl` and `uname -r`._
 
 <!--
