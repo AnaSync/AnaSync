@@ -36,7 +36,7 @@ Here are the details of my current workstation:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app?username=AnachronousSync&show_icons=true&bg_color=202225&title_color=48B9C7&icon_color=48B9C7&text_color=FFFFFF&border_color=48B9C7" layout=compact height="165" hide_border=false alt="Top Languages" />
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/top-langs/?username=AnachronousSync&layout=compact&bg_color=202225&title_color=48B9C7&text_color=FFFFFF&border_color=48B9C7)
+![GitHub Stats](https://github-readme-stats.vercel.app8B9?username=AnachronousSync&layout=compact&bg_color=202225&title_color=48B9C7&text_color=FFFFFF&border_color=48B9C7&hide_border=false)
 
 ---
 
