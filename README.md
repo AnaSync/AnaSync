@@ -13,22 +13,22 @@ Here are the details of my current server and workstation:
         <td>Server</td>
         <td>Workstation</td>
     <tr>
-        <td></td>
+        <td><img src="https://img.shields.io/badge/Distribution-Pop!__OS_24.04_LTS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" height="25" alt="OS: POP!_OS 24.04 LTS" /></td>    <tr>
         <td><img src="https://img.shields.io/badge/Distribution-Pop!__OS_24.04_LTS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" height="25" alt="OS: POP!_OS 24.04 LTS" /></td>    <tr>
     </tr>
     <tr>
-        <td></td>
+        <td><img src="https://img.shields.io/badge/Kernel-6.12.73+deb13-amd64-FCC624?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel: 6.12.73+deb13-amd64" /></td>
         <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807--generic-FCC624?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel: 6.16.7-76061807-generic" /></td>
     </tr>
     <tr>
-        <td></td>
+        <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-E36427?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="Shell: Zsh/P10k" /></td>    </tr>
         <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-E36427?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="Shell: Zsh/P10k" /></td>    </tr>
     <tr>
-        <td></td>
+        <td><img src="https://img.shields.io/badge/Desktop-COSMIC-228B22?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Desktop: COSMIC" /></td>
         <td><img src="https://img.shields.io/badge/Desktop-COSMIC-228B22?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Desktop: COSMIC" /></td>
     </tr>
     <tr>
-        <td></td>
+        <td><img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: VS Code" /></td>
         <td><img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: VS Code" /></td>
     </tr>
 </table>
