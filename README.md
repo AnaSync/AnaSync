@@ -18,7 +18,7 @@ Here are the details of my current workstation:
     <td><img src="https://img.shields.io/badge/Desktop-COSMIC-228B22?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Desktop: COSMIC" /></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=codeproject&logoColor=white" height="25" alt="IDE: VS Code" /></td>
+    <td><img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="25" alt="IDE: VS Code" /></td>
   </tr>
 </table>
 
