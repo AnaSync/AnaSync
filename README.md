@@ -26,9 +26,9 @@ Here are the details of my current workstation:
 | Category | Specifications |
 | :--- | :--- |
 | **Distribution** | ![Pop!_OS 24.04 LTS](https://img.shields.io/badge/Pop!__OS_24.04_LTS-48B9C7?logo=popos&logoColor=white) |
-| **Kernel** | ![6.18.7-76061807-generic](https://img.shields.io/badge/6.18.7--76061807--generic-blue?logo=linux&logoColor=white) |
-| **Desktop** | ![COSMIC](https://img.shields.io/badge/COSMIC-black?logo=system76&logoColor=white) |
-| **Terminal** | ![Zsh/P10k](https://img.shields.io/badge/Zsh_/_P10k-orange?logo=gnubash&logoColor=white) |
+| **Kernel** | ![6.18.7-76061807-generic](https://img.shields.io/badge/6.18.7--76061807--generic-E36427?logo=linux&logoColor=white) |
+| **Desktop** | ![COSMIC](https://img.shields.io/badge/COSMIC-2E3440?logo=system76&logoColor=white) |
+| **Terminal** | ![Zsh/P10k](https://img.shields.io/badge/Zsh_/_P10k-FCC624?logo=gnubash&logoColor=white) |
 | **IDE** | ![Zsh/P10k](https://img.shields.io/badge/VS_Code-007ACC?logo=codeproject&logoColor=white) |
 
 ---
