@@ -28,7 +28,6 @@ Here are the details of my current workstation:
 | **Desktop** | ![COSMIC](https://img.shields.io/badge/COSMIC-228B22?logo=system76&logoColor=white) |
 | **IDE** | ![Zsh/P10k](https://img.shields.io/badge/VS_Code-007ACC?logo=devbox&logoColor=white) |
 -->
-
 ---
 
 ### 📊 GitHub Stats
@@ -36,13 +35,8 @@ Here are the details of my current workstation:
   <img src="https://github-readme-stats.vercel.app?username=AnachronousSync&show_icons=true&bg_color=202225&title_color=48B9C7&icon_color=48B9C7&text_color=FFFFFF&border_color=48B9C7" layout=compact height="165" hide_border=false alt="Top Languages" />
 </p>
 ![GitHub Stats](https://github-readme-stats.vercel.app/top-langs/?username=AnachronousSync&layout=compact&bg_color=202225&title_color=48B9C7&text_color=FFFFFF&border_color=48B9C7)
----
 
-### 🚀 Technical Skills
-<!-- Hier kannst du weitere Badges von Shields.io oder SimpleIcons einfügen -->
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+---
 
 ### 🚀 Technical Skills
 <p align="left">
@@ -50,7 +44,13 @@ Here are the details of my current workstation:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="Docker" />
 </p>
-
+<!--
+### 🚀 Technical Skills
+<!-- Hier kannst du weitere Badges von Shields.io oder SimpleIcons einfügen -->
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+-->
 ---
 *System details fetched using `hostnamectl` and `uname -r`.*
 
