@@ -28,6 +28,7 @@ Here are the details of my current workstation:
 | **Desktop** | ![COSMIC](https://img.shields.io/badge/COSMIC-228B22?logo=system76&logoColor=white) |
 | **IDE** | ![Zsh/P10k](https://img.shields.io/badge/VS_Code-007ACC?logo=devbox&logoColor=white) |
 -->
+
 ---
 
 ### 📊 GitHub Stats
@@ -50,7 +51,9 @@ Here are the details of my current workstation:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 -->
+
 ---
+
 *System details fetched using `hostnamectl` and `uname -r`.*
 
 <!--
