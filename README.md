@@ -46,7 +46,6 @@ Here are the details of my current workstation:
 </p>
 <!--
 ### 🚀 Technical Skills
-<!-- Hier kannst du weitere Badges von Shields.io oder SimpleIcons einfügen -->
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
