@@ -12,7 +12,7 @@ Here are the details of my current workstation:
     <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807--generic-E36427?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel" /></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/COSMIC-2E3440?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Shell" /></td>
+    <td><img src="https://img.shields.io/badge/Desktop-COSMIC-2E3440?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Shell" /></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-FCC624?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="Shell" /></td>
