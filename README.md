@@ -9,13 +9,13 @@ Here are the details of my current workstation:
     <td><img src="https://img.shields.io/badge/OS-Pop!__OS_24.04_LTS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" height="25" alt="OS" /></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807--generic-E36427?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel" /></td>
+    <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807--generic-FCC624?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel" /></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Desktop-COSMIC-228B22?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Shell" /></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-FCC624?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="Shell" /></td>
+    <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-E36427?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="Shell" /></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=codeproject&logoColor=white" height="25" alt="VS Code" /></td>
@@ -25,9 +25,9 @@ Here are the details of my current workstation:
 | Category | Specifications |
 | :--- | :--- |
 | **Distribution** | ![Pop!_OS 24.04 LTS](https://img.shields.io/badge/Pop!__OS_24.04_LTS-48B9C7?logo=popos&logoColor=white) |
-| **Kernel** | ![6.18.7-76061807-generic](https://img.shields.io/badge/6.18.7--76061807--generic-E36427?logo=linux&logoColor=white) |
+| **Kernel** | ![6.18.7-76061807-generic](https://img.shields.io/badge/6.18.7--76061807--generic-FCC624?logo=linux&logoColor=white) |
 | **Desktop** | ![COSMIC](https://img.shields.io/badge/COSMIC-228B22?logo=system76&logoColor=white) |
-| **Shell** | ![Zsh/P10k](https://img.shields.io/badge/Zsh_/_P10k-FCC624?logo=gnubash&logoColor=white) |
+| **Shell** | ![Zsh/P10k](https://img.shields.io/badge/Zsh_/_P10k-E36427?logo=gnubash&logoColor=white) |
 | **IDE** | ![Zsh/P10k](https://img.shields.io/badge/VS_Code-007ACC?logo=codeproject&logoColor=white) |
 
 ---
