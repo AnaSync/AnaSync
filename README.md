@@ -1,6 +1,13 @@
+<!--
+Test2
+-->
+
 # Hi there, I'm AnachronousSync!
+
 ## and I'm currently developing my coding skills.. 🌱
+
 ### 💻 My Linux Environment
+
 I prefer working in a Linux-based environment for its flexibility and power.
 Here are the details of my current workstation:
 
@@ -30,10 +37,10 @@ Here are the details of my current workstation:
 | **IDE** | ![Zsh/P10k](https://img.shields.io/badge/VS_Code-007ACC?logo=devbox&logoColor=white) |
 -->
 
-<!--
----
+## <!--
 
 ### 📊 GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AnaSync&show_icons=true&bg_color=202225&title_color=48B9C7&icon_color=48B9C7&text_color=FFFFFF&border_color=48B9C7" layout=compact height="165" hide_border=false alt="Top Languages" />
 </p>
@@ -43,6 +50,7 @@ Here are the details of my current workstation:
 ---
 
 ### 🚀 Technical Skills
+
 <p align="left">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25" alt="Bash" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git" />
@@ -58,7 +66,7 @@ Here are the details of my current workstation:
 
 ---
 
-*System details fetched using `hostnamectl` and `uname -r`.*
+_System details fetched using `hostnamectl` and `uname -r`._
 
 <!--
 **AnaSync/AnaSync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
