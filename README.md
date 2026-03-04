@@ -28,7 +28,6 @@ Here are the details of my current workstation:
 | **Desktop** | ![COSMIC](https://img.shields.io/badge/COSMIC-228B22?logo=system76&logoColor=white) |
 | **IDE** | ![Zsh/P10k](https://img.shields.io/badge/VS_Code-007ACC?logo=devbox&logoColor=white) |
 -->
-
 ---
 
 ### 📊 GitHub Stats
