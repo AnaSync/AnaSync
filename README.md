@@ -11,7 +11,7 @@ Here are the details of my current workstation:
   </tr>
   <tr>
     <td><b>Kernel</b></td>
-    <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807--generic-blue?style=for-the-badge&logo=linux&logoColor=black" height="25" alt="Kernel" /></td>
+    <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807--generic-blue?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel" /></td>
   </tr>
   <tr>
     <td><b>Shell</b></td>
