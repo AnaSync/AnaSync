@@ -1,11 +1,3 @@
-<!--
-Test1
--->
-
-<!--
-Test2
--->
-
 # Hi there, I'm AnachronousSync!
 
 ## and I'm currently developing my coding skills.. 🌱
