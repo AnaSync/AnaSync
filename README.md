@@ -4,7 +4,7 @@
 I prefer working in a Linux-based environment for its flexibility and power.
 Here are the details of my current workstation:
 
-<table>
+<table style="noborders">
   <tr>
     <td><b>OS</b></td>
     <td><img src="https://img.shields.io/badge/OS-Pop!__OS_24.04_LTS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" height="25" alt="OS" /></td>
