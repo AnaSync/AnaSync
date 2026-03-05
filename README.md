@@ -17,7 +17,7 @@ Here are the details of my current server and workstation:
         <td><img src="https://img.shields.io/badge/OS-Pop!__OS_24.04_LTS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" height="25" alt="OS: POP!_OS 24.04 LTS" /></td>
     </tr>
     <tr>
-        <td><img src="https://img.shields.io/badge/Kernel-Linux_6.12.73%2Bdeb13--amd64-FCC624?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel: Linux 6.12.73+deb13-amd64" /></td>
+        <td><img src="https://img.shields.io/badge/Kernel-6.12.73%2Bdeb13--amd64-FCC624?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel: Linux 6.12.73+deb13-amd64" /></td>
         <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807--generic-FCC624?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel: 6.16.7-76061807-generic" /></td>
     </tr>
     <tr>
