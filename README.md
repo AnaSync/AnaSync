@@ -17,19 +17,23 @@ Here are the details of my current server and workstation:
         <td><img src="https://img.shields.io/badge/OS-Pop!__OS_24.04_LTS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" height="25" alt="OS: POP!_OS 24.04 LTS" /></td>
     </tr>
     <tr>
-        <td><img src="https://img.shields.io/badge/Kernel-6.12.73%2Bdeb13--amd64-FCC624?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel: Linux 6.12.73+deb13-amd64" /></td>
+        <td><img src="https://img.shields.io/badge/Kernel-6.12.73%2Bdeb13--amd64-FCC624?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel: 6.12.73+deb13-amd64" /></td>
         <td><img src="https://img.shields.io/badge/Kernel-6.18.7--76061807--generic-FCC624?style=for-the-badge&logo=linux&logoColor=white" height="25" alt="Kernel: 6.16.7-76061807-generic" /></td>
     </tr>
     <tr>
         <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="Shell: Zsh/P10k" /></td>
         <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="Shell: Zsh/P10k" /></td>
     <tr>
-        <td><img src="https://img.shields.io/badge/Desktop-Bash_only-585048?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Desktop: None" /></td>
+        <td><img src="https://img.shields.io/badge/Desktop-None-585048?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Desktop: None" /></td>
         <td><img src="https://img.shields.io/badge/Desktop-COSMIC-585048?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Desktop: COSMIC" /></td>
     </tr>
     <tr>
-        <td><img src="https://img.shields.io/badge/IDE-VS_Code_%28Remote%29-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: VS Code" /></td>
-        <td><img src="https://img.shields.io/badge/IDE-VS_Code_%28Desktop%29-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: VS Code" /></td>
+        <td><img src="https://img.shields.io/badge/IDE-VS_Code_%28Remote_Only%29-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: VS Code (Remote Only)" /></td>
+        <td><img src="https://img.shields.io/badge/IDE-VS_Code_%28Desktop_App%29-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: VS Code (Desktop App)" /></td>
+    </tr>
+    <tr>
+        <td><img src="https://img.shields.io/badge/Virtualization-MS_Hyper--V-007ACC?style=for-the-badge&logo=hyper-v&logoColor=white" height="25" alt="Virtualization: VMware Workstation Pro" /></td>
+        <td><img src="https://img.shields.io/badge/Virtualization-VMware_Workstation_Pro-607078?style=for-the-badge&logo=vmware&logoColor=white" height="25" alt="Virtualization: MS Hyper-V" /></td>
     </tr>
 </table>
 
