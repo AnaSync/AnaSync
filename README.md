@@ -72,7 +72,7 @@ Here are the details of my current server and workstation:
     <tr>
         <td><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25" alt="Bash" /></td>
         <td></td>
-    <tr>
+    </tr>
     <tr>
         </td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git" /></td>
         <td></td>
