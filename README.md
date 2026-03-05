@@ -47,6 +47,7 @@ Here are the details of my current server and workstation:
 | **IDE** | ![Zsh/P10k](https://img.shields.io/badge/VS_Code-007ACC?logo=devbox&logoColor=white) |
 -->
 
+<!--
 ### 📊 GitHub Stats
 
 <table>
@@ -57,6 +58,7 @@ Here are the details of my current server and workstation:
         <td>![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaSync&layout=compact&bg_color=202225&title_color=48B9C7&text_color=FFFFFF&border_color=48B9C7&hide_border=false)</td>
     </tr>
 </table>
+-->
 
 ---
 
@@ -64,10 +66,18 @@ Here are the details of my current server and workstation:
 
 <table>
     <tr>
+        <td>Linux</td>
+        <td>Microsoft</td>
+    </tr>
+    <tr>
+        <td></td>
         <td><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25" alt="Bash" /></td>
     <tr>
+    <tr>
+        <td></td>
         </td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git" /></td>
     </tr>
+        <td></td>
         <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="Docker" /></td>
     </tr>
 </table>
