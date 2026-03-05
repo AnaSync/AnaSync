@@ -24,12 +24,12 @@ Here are the details of my current server and workstation:
         <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="Shell: Zsh/P10k" /></td>
         <td><img src="https://img.shields.io/badge/Shell-Zsh%2FP10k-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="25" alt="Shell: Zsh/P10k" /></td>
     <tr>
-        <td><img src="https://img.shields.io/badge/Desktop-Bash_only-4EAA25?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Desktop: None" /></td>
+        <td><img src="https://img.shields.io/badge/Desktop-Bash_only-585048?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Desktop: None" /></td>
         <td><img src="https://img.shields.io/badge/Desktop-COSMIC-585048?style=for-the-badge&logo=system76&logoColor=white" height="25" alt="Desktop: COSMIC" /></td>
     </tr>
     <tr>
-        <td><img src="https://img.shields.io/badge/IDE-VS_Code_%28remote%29-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: VS Code" /></td>
-        <td><img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: VS Code" /></td>
+        <td><img src="https://img.shields.io/badge/IDE-VS_Code_%28Remote%29-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: VS Code" /></td>
+        <td><img src="https://img.shields.io/badge/IDE-VS_Code_%28Desktop%29-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: VS Code" /></td>
     </tr>
 </table>
 
