@@ -90,9 +90,9 @@ Here are the details of my current server and workstation:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
--->
 
 ---
+-->
 
 _System details fetched using `hostnamectl` and `uname -r`._
 
