@@ -70,15 +70,15 @@ Here are the details of my current server and workstation:
         <td>Microsoft</td>
     </tr>
     <tr>
-        <td></td>
         <td><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25" alt="Bash" /></td>
-    <tr>
-    <tr>
         <td></td>
+    <tr>
+    <tr>
         </td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git" /></td>
-    </tr>
         <td></td>
+    </tr>
         <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="Docker" /></td>
+        <td></td>
     </tr>
 </table>
 
