@@ -62,6 +62,7 @@ Here are the details of my current server and workstation:
 
 ---
 
+<!--
 ### 🚀 Technical Skills
 
 <table>
@@ -82,6 +83,7 @@ Here are the details of my current server and workstation:
         <td></td>
     </tr>
 </table>
+-->
 
 <!--
 ### 🚀 Technical Skills
