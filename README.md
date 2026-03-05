@@ -29,7 +29,7 @@ Here are the details of my current server and workstation:
     </tr>
     <tr>
         <td><img src="https://img.shields.io/badge/IDE-None-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: None" /></td>
-        <td><img src="https://img.shields.io/badge/IDE-VS_Code_%28Desktop_App%29-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: Visual Studio Code" /></td>
+        <td><img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: Visual Studio Code" /></td>
     </tr>
     <tr>
         <td><img src="https://img.shields.io/badge/Virtualization-MS_Hyper--V-007ACC?style=for-the-badge&logo=codesandbox&logoColor=white" height="25" alt="Virtualization: VMware Workstation Pro" /></td>
