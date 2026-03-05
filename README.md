@@ -47,23 +47,30 @@ Here are the details of my current server and workstation:
 | **IDE** | ![Zsh/P10k](https://img.shields.io/badge/VS_Code-007ACC?logo=devbox&logoColor=white) |
 -->
 
-<!--
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnaSync&show_icons=true&bg_color=202225&title_color=48B9C7&icon_color=48B9C7&text_color=FFFFFF&border_color=48B9C7" layout=compact height="165" hide_border=false alt="Top Languages" />
-</p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaSync&layout=compact&bg_color=202225&title_color=48B9C7&text_color=FFFFFF&border_color=48B9C7&hide_border=false)
--->
+
+<table>
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=AnaSync&show_icons=true&bg_color=202225&title_color=48B9C7&icon_color=48B9C7&text_color=FFFFFF&border_color=48B9C7" layout=compact height="165" hide_border=false alt="Top Languages" /></td>
+    </tr>
+    <tr>
+        <td>![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaSync&layout=compact&bg_color=202225&title_color=48B9C7&text_color=FFFFFF&border_color=48B9C7&hide_border=false)</td>
+    </tr>
+</table>
 
 ---
 
 ### 🚀 Technical Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="Docker" />
-</p>
+<table>
+    <tr>
+        <td><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25" alt="Bash" /></td>
+    <tr>
+        </td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git" /></td>
+    </tr>
+        <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" alt="Docker" /></td>
+    </tr>
+</table>
 
 <!--
 ### 🚀 Technical Skills
