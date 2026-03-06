@@ -32,8 +32,8 @@ Here are the details of my current server and workstation:
         <td><img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-007ACC?style=for-the-badge&logo=devbox&logoColor=white" height="25" alt="IDE: Visual Studio Code" /></td>
     </tr>
     <tr>
-        <td><img src="https://img.shields.io/badge/Virtualization-MS_Hyper--V-007ACC?style=for-the-badge&logo=codesandbox&logoColor=white" height="25" alt="Virtualization: VMware Workstation Pro" /></td>
-        <td><img src="https://img.shields.io/badge/Virtualization-VMware_Workstation_Pro-607078?style=for-the-badge&logo=vmware&logoColor=white" height="25" alt="Virtualization: MS Hyper-V" /></td>
+        <td><img src="https://img.shields.io/badge/Virtualization-VMware_20.1-607078?style=for-the-badge&logo=vmware&logoColor=white" height="25" alt="Virtualization: VMware Workstation Pro" /></td>
+        <td><img src="https://img.shields.io/badge/Virtualization-VMware_20.1-607078?style=for-the-badge&logo=vmware&logoColor=white" height="25" alt="Virtualization: MS Hyper-V" /></td>
     </tr>
 </table>
 
