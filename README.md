@@ -37,6 +37,8 @@ Here are the details of my current server and workstation:
     </tr>
 </table>
 
+_System details fetched using `hostnamectl` and `uname -r`._
+
 <!--
 | Category | Specifications |
 | :--- | :--- |
@@ -93,8 +95,6 @@ Here are the details of my current server and workstation:
 
 ---
 -->
-
-_System details fetched using `hostnamectl` and `uname -r`._
 
 <!--
 **AnaSync/AnaSync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
